@@ -10,15 +10,15 @@ written without modules in mind and initially converted to [Jigsaw modules](http
 * waro.base
     * originally used Spring, though this is commented out for now
     * exports several utility packages
-    * OSGi Bundle Manifest [here](http://cnn.com) 
+    * OSGi Bundle Manifest [here](https://github.com/codetojoy/WarO_Java_OSGi/blob/master/waro.base/src/main/resources/META-INF/MANIFEST.MF)
 * waro.function
     * uses Guava
     * exports functional packages 
-    * OSGi Bundle Manifest [here](http://cnn.com) 
+    * OSGi Bundle Manifest [here](https://github.com/codetojoy/WarO_Java_OSGi/blob/master/waro.function/src/main/resources/META-INF/MANIFEST.MF)
 * waro.main
     * requires `waro.base` and `waro.function`
     * the main app
-    * OSGi Bundle Manifest [here](http://cnn.com) 
+    * OSGi Bundle Manifest [here](https://github.com/codetojoy/WarO_Java_OSGi/blob/master/waro.main/src/main/resources/META-INF/MANIFEST.MF)
 
 ### Setup 
 
