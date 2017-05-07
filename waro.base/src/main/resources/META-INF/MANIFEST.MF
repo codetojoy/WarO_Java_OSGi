@@ -1,0 +1,5 @@
+Bundle-SymbolicName: waro-base
+Bundle-Version: 1.0.0.SNAPSHOT
+Import-Package: org.osgi.framework
+Export-Package: org.peidevs.waro.config;version="1.0.0.SNAPSHOT",org.peidevs.waro.player;version="1.0.0.SNAPSHOT",org.peidevs.waro.strategy;version="1.0.0.SNAPSHOT",org.peidevs.waro.util;version="1.0.0.SNAPSHOT"
+Bundle-Activator: org.peidevs.waro.BaseActivator

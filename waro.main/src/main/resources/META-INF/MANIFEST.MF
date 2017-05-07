@@ -1,0 +1,4 @@
+Bundle-SymbolicName: waro-main
+Bundle-Version: 1.0.0.SNAPSHOT
+Import-Package: org.peidevs.waro.function;version="1.0.0.SNAPSHOT",org.osgi.framework,org.peidevs.waro.player;version="1.0.0.SNAPSHOT",org.peidevs.waro.config;version="1.0.0.SNAPSHOT"
+Bundle-Activator: org.peidevs.waro.app.AppActivator

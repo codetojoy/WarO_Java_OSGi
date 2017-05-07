@@ -1,0 +1,5 @@
+Bundle-SymbolicName: waro-function
+Bundle-Version: 1.0.0.SNAPSHOT
+Import-Package: org.peidevs.waro.player;version="1.0.0.SNAPSHOT",org.osgi.framework,com.google.common.collect,org.peidevs.waro.util;version="1.0.0.SNAPSHOT"
+Export-Package: org.peidevs.waro.function;version="1.0.0.SNAPSHOT"
+Bundle-Activator: org.peidevs.waro.function.FunctionActivator
