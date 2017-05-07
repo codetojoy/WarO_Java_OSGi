@@ -2,6 +2,8 @@
 
 WarO is a code kata based on a simple card game. Rules are documented [here](https://github.com/peidevs/WarO_Java/blob/master/README.md).
 
+Many thanks to [this post](https://michaelrice.com/2015/04/the-simplest-osgi-karaf-hello-world-demo-i-could-come-up-with/) which helped with Apache Karaf (far more than the project documentation).
+
 ### Architecture
 
 * This example contains 3 modules. They are somewhat arbitrary, as this project was
