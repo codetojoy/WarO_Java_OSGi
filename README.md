@@ -35,21 +35,21 @@ written without modules in mind and initially converted to [Jigsaw modules](http
 * in terminal 1:
     * `install mvn:net.codetojoy/waro-base/1.0.0-SNAPSHOT`
     * `list` to identify ID value
-    * `start ID` for ID value (also useful is `stop ID` and `uninstall ID`)
+    * `start ID` for ID value (also useful: `stop ID`, `uninstall ID`)
 * in terminal 2:
     * `cd waro.function`
     * `mvn clean install` 
 * in terminal 1:
     * `install mvn:net.codetojoy/waro-function/1.0.0-SNAPSHOT`
     * `list` to identify ID value
-    * `start ID` for ID value (also useful is `stop ID` and `uninstall ID`)
+    * `start ID` for ID value (also useful: `stop ID`, `uninstall ID`)
 * in terminal 2:
     * `cd waro.main`
     * `mvn clean install` 
 * in terminal 1:
     * `install mvn:net.codetojoy/waro-main/1.0.0-SNAPSHOT`
     * `list` to identify ID value
-    * `start ID` for ID value (also useful is `stop ID` and `uninstall ID`)
+    * `start ID` for ID value (also useful: `stop ID`, `uninstall ID`)
 
 ### TODO 
 
